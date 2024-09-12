@@ -1,0 +1,54 @@
+@media (max-width: 1280px) {
+  body {
+    gap: 3rem;
+  }
+
+  nav {
+    padding: 2rem;
+  }
+
+  nav ul {
+    gap: 1.5rem;
+    font-size: 2rem;
+  }
+
+  .section1 h1 {
+    font-size: 3.8rem;
+  }
+
+  .section1 p {
+    font-size: 2rem;
+  }
+
+  .section1 img {
+    max-width: 40rem;
+    top: 6rem;
+    right: -15rem;
+  }
+
+  .section2 h2 {
+    font-size: 4rem;
+  }
+
+  .section2 .textoconhece {
+    font-size: 1.6rem;
+  }
+
+  .projetos-caixa div {
+    gap: 1.5rem;
+  }
+
+  .caixa-cinza {
+    width: 90%;
+  }
+
+  footer {
+    gap: 4rem;
+  }
+
+  .footerinfo h3,
+  .footer-content .contato,
+  .textofoot {
+    font-size: 2rem;
+  }
+}
